@@ -4,7 +4,7 @@ $(function(){
         var email = $("#exampleInputEmail").val();
         var password = $("#exampleInputPassword").val();
           
-          if ((email == 'admin@nw.com') && (password == '12345')) {
+          if ((email == 'admin@nw.com') && (password == '12345**')) {
              
                   window.location = "dashboard.html";
               
